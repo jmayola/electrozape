@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.11313708"
-     inkscape:cx="658.49319"
-     inkscape:cy="-468.45824"
+     inkscape:zoom="0.125"
+     inkscape:cx="1128"
+     inkscape:cy="1088"
      inkscape:window-width="1366"
      inkscape:window-height="696"
      inkscape:window-x="0"
@@ -257,6 +257,30 @@
        x2="803.74037"
        y2="-212.26816"
        gradientUnits="userSpaceOnUse" />
+    <rect
+       x="900.35132"
+       y="826.97455"
+       width="606.6424"
+       height="116.18989"
+       id="rect3-4-6-75-3-8-7" />
+    <rect
+       x="900.35132"
+       y="826.97455"
+       width="606.6424"
+       height="116.18989"
+       id="rect3-4-6-75-3-8-7-2" />
+    <rect
+       x="900.35132"
+       y="826.97455"
+       width="606.6424"
+       height="116.18989"
+       id="rect3-4-6-75-3-8-7-7" />
+    <rect
+       x="900.35132"
+       y="826.97455"
+       width="606.6424"
+       height="116.18989"
+       id="rect3-4-6-75-3-8-7-7-4" />
   </defs>
   <g
      inkscape:label="Capa 1"
@@ -455,9 +479,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono';text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#f9f9f9;stroke:#000000;stroke-width:11.339;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="977.67284"
          y="877.27761"
-         id="tspan4"><tspan
+         id="tspan23"><tspan
            style="font-weight:200;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Ultra-Light'"
-           id="tspan3">ELECTROZAPE</tspan></tspan></text>
+           id="tspan22">ELECTROZAPE</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0,22.823781)"
@@ -465,7 +489,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="964.76671"
          y="886.8702"
-         id="tspan5">ELECTRO APE</tspan></text>
+         id="tspan24">ELECTRO APE</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0,45.647562)"
@@ -473,9 +497,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono';text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-7);display:inline;fill:#f9f9f9;stroke:#000000;stroke-width:11.339;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="977.67284"
          y="877.27761"
-         id="tspan7"><tspan
+         id="tspan26"><tspan
            style="font-weight:200;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Ultra-Light'"
-           id="tspan6">ELECTROZAPE</tspan></tspan></text>
+           id="tspan25">ELECTROZAPE</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0,68.471343)"
@@ -483,9 +507,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono';text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-0);display:inline;fill:#f9f9f9;stroke:#000000;stroke-width:11.339;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="977.67284"
          y="877.27761"
-         id="tspan9"><tspan
+         id="tspan28"><tspan
            style="font-weight:200;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Ultra-Light'"
-           id="tspan8">ELECTROZAPE</tspan></tspan></text>
+           id="tspan27">ELECTROZAPE</tspan></tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 256.16293,243.31301 96.99848,0 -14.9203,14.16184 h 50.46923"
@@ -500,7 +524,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
            x="964.76671"
            y="886.8702"
-           id="tspan10">ELECTRO APE</tspan></text>
+           id="tspan29">ELECTRO APE</tspan></text>
       <path
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          d="m 457.76637,301.60801 h 96.99848 l -14.9203,14.16184 h 50.46923"
@@ -513,7 +537,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-9);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
            x="964.76671"
            y="886.8702"
-           id="tspan11">ELECTRO APE</tspan></text>
+           id="tspan30">ELECTRO APE</tspan></text>
       <path
          style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          d="m 459.68288,331.81805 h 96.99848 l -14.9203,14.16184 h 50.46923"
@@ -526,7 +550,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-6-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
            x="964.76671"
            y="886.8702"
-           id="tspan12">ELECTRO APE</tspan></text>
+           id="tspan31">ELECTRO APE</tspan></text>
       <path
          style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2.30994;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          d="m 466.91136,355.14936 101.69695,0.15007 -18.25875,16.3565 58.28421,10e-6"
@@ -673,7 +697,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-6);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="964.76671"
          y="886.8702"
-         id="tspan13">ELECTRO APE</tspan></text>
+         id="tspan32">ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2.5649;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 451.75169,224.98454 112.92162,0.16663 -20.27404,18.16183 64.71726,1e-5"
@@ -695,7 +719,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-6-31);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="970.65213"
          y="886.8702"
-         id="tspan14"> LECTRO APE</tspan></text>
+         id="tspan33"> LECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2.5649;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 886.92945,560.15387 100.29233,0.16663 -20.27404,18.16183 64.71726,10e-6"
@@ -771,7 +795,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-6-31-1);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="950.4438"
          y="886.8702"
-         id="tspan15"> ELECTRO APE</tspan></text>
+         id="tspan34"> ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:15.7445;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 842.69635,848.01657 615.63875,1.02285 -124.451,111.48536 397.2632,6e-5"
@@ -793,7 +817,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-6-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="970.65213"
          y="886.8702"
-         id="tspan16"> LECTRO APE</tspan></text>
+         id="tspan35"> LECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2.5649;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 739.58544,387.99178 102.91469,0.11069 -20.27404,18.16183 64.71726,1e-5"
@@ -870,7 +894,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:2.33927px;white-space:pre;shape-inside:url(#rect3-4-6-75);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="1003.0704"
          y="886.8702"
-         id="tspan17">ELECTRO APE</tspan></text>
+         id="tspan36">ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:url(#linearGradient7);stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m -1758.3848,-2189.5092 57.0438,0.3653 -20.274,18.1618 h 45.4587"
@@ -897,7 +921,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:2.33927px;white-space:pre;shape-inside:url(#rect3-4-6-75-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="1003.0704"
          y="886.8702"
-         id="tspan18">ELECTRO APE</tspan></text>
+         id="tspan37">ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:url(#linearGradient8);stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 685.87845,27.012573 57.0438,0.3653 -20.274,18.1618 h 45.4587"
@@ -913,7 +937,7 @@
        inkscape:export-ydpi="96"><tspan
          x="1003.0704"
          y="886.8702"
-         id="tspan19">ELECTRO APE</tspan></text>
+         id="tspan38">ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:url(#linearGradient9);stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 412.55764,-134.9266 57.0438,0.3653 -20.274,18.1618 h 45.4587"
@@ -949,20 +973,116 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:2.33927px;white-space:pre;shape-inside:url(#rect3-4-6-75-3-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="1003.0704"
          y="886.8702"
-         id="tspan20">ELECTRO APE</tspan></text>
+         id="tspan39">ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 679.32681,-127.41033 49.82062,-0.0112 -20.274,18.1618 42.83152,0"
        id="path3-8-62-1-3"
        sodipodi:nodetypes="cccc" />
-    <rect
-       style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:5.67845;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
-       id="rect5-2-8-2"
-       width="3.8270993"
-       height="5.5274262"
-       x="443.3288"
-       y="-798.02252"
-       transform="matrix(0.39878899,0.91704271,-0.73723876,0.67563231,0,0)" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.6271;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle1"
+       cx="730.69513"
+       cy="-364.74182"
+       rx="39.42065"
+       ry="39.541508" />
+    <path
+       id="path1-2-5-0-6-3"
+       style="fill:#ff0000;stroke:none;stroke-width:1.65852;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 730.69493 -404.28333 A 39.541573 39.541573 0 0 0 691.36348 -367.67627 L 770.11578 -367.67627 A 39.541573 39.541573 0 0 0 730.69493 -404.28333 z M 691.97688 -357.18078 A 39.541573 39.541573 0 0 0 730.69493 -325.20031 A 39.541573 39.541573 0 0 0 769.4135 -357.18078 L 691.97688 -357.18078 z " />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.60274;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path8-1-5"
+       cx="730.69513"
+       cy="-364.55432"
+       r="30.740635" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.34003422,0,0,0.34231058,292.8634,-656.8556)"
+       id="text3-4-6-5-6-0-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:2.33927px;white-space:pre;shape-inside:url(#rect3-4-6-75-3-8-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
+         x="1003.0704"
+         y="886.8702"
+         id="tspan40">ELECTRO APE</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 699.90163,-370.5916 40.05534,0.0238 -17.63064,16.29952 h 42.83152"
+       id="path3-8-62-1-3-2"
+       sodipodi:nodetypes="cccc" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.6271;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle1-6"
+       cx="517.97015"
+       cy="-496.23975"
+       rx="39.42065"
+       ry="39.541508" />
+    <path
+       id="path1-2-5-0-6-3-1"
+       style="fill:#ff0000;stroke:none;stroke-width:1.65852;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 517.96993,-535.78125 a 39.541573,39.541573 0 0 0 -39.33145,36.60706 h 78.7523 a 39.541573,39.541573 0 0 0 -39.42085,-36.60706 z m -38.71805,47.10255 a 39.541573,39.541573 0 0 0 38.71805,31.98047 39.541573,39.541573 0 0 0 38.71857,-31.98047 z" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.60274;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path8-1-5-2"
+       cx="517.97015"
+       cy="-496.05225"
+       r="30.740635" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.34003422,0,0,0.34231058,80.1384,-788.35352)"
+       id="text3-4-6-5-6-0-6-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:2.33927px;white-space:pre;shape-inside:url(#rect3-4-6-75-3-8-7-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
+         x="1003.0704"
+         y="886.8702"
+         id="tspan41">ELECTRO APE</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 487.58202,-500.6942 37.76656,0.03 -14.95954,13.50933 40.34727,-0.0109"
+       id="path3-8-62-1-3-2-3"
+       sodipodi:nodetypes="cccc" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.6271;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle1-6-8"
+       cx="903.46808"
+       cy="-523.22723"
+       rx="39.42065"
+       ry="39.541508" />
+    <path
+       id="path1-2-5-0-6-3-1-4"
+       style="fill:#ff0000;stroke:none;stroke-width:1.65852;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 903.46787,-562.76875 a 39.541573,39.541573 0 0 0 -39.33145,36.60706 h 78.7523 a 39.541573,39.541573 0 0 0 -39.42085,-36.60706 z m -38.71805,47.10255 a 39.541573,39.541573 0 0 0 38.71805,31.98047 39.541573,39.541573 0 0 0 38.71857,-31.98047 z" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.60274;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path8-1-5-2-5"
+       cx="903.46808"
+       cy="-523.03973"
+       r="30.740635" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 873.07996,-527.6817 37.76656,0.03 -14.95954,13.50933 40.34727,-0.0109"
+       id="path3-8-62-1-3-2-3-6"
+       sodipodi:nodetypes="cccc" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.6271;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle1-7"
+       cx="741.54303"
+       cy="-533.81055"
+       rx="39.42065"
+       ry="39.541508" />
+    <path
+       id="path1-2-5-0-6-3-5"
+       style="fill:#ff0000;stroke:none;stroke-width:1.65852;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 741.54284,-573.35208 a 39.541573,39.541573 0 0 0 -39.33145,36.60706 h 78.7523 a 39.541573,39.541573 0 0 0 -39.42085,-36.60706 z m -38.71805,47.10255 a 39.541573,39.541573 0 0 0 38.71805,31.98047 39.541573,39.541573 0 0 0 38.71857,-31.98047 z" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.60274;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path8-1-5-9"
+       cx="741.54303"
+       cy="-533.62305"
+       r="30.740635" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 710.74954,-539.66035 40.05534,0.0238 -17.63064,16.29952 h 42.83152"
+       id="path3-8-62-1-3-2-2"
+       sodipodi:nodetypes="cccc" />
     <circle
        style="fill:#ff0000;stroke:none;stroke-width:1.65852;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="path1-2-5-0-6-5"
@@ -985,19 +1105,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:2.33927px;white-space:pre;shape-inside:url(#rect3-4-6-75-3-8-1);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="1003.0704"
          y="886.8702"
-         id="tspan21">ELECTRO APE</tspan></text>
+         id="tspan42">ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:url(#linearGradient15);stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 729.86223,-221.33742 49.82062,-0.0112 -20.274,18.1618 h 42.83152"
        id="path3-8-62-1-3-6"
        sodipodi:nodetypes="cccc" />
-    <rect
-       style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:5.67845;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
-       id="rect5-2-8-2-9"
-       width="3.8270993"
-       height="5.5274262"
-       x="406.20261"
-       y="-886.65179"
-       transform="matrix(0.39878899,0.91704271,-0.73723876,0.67563231,0,0)" />
   </g>
 </svg>
