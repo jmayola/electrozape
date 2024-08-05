@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.125"
-     inkscape:cx="1128"
-     inkscape:cy="1088"
+     inkscape:zoom="0.46494515"
+     inkscape:cx="1251.7606"
+     inkscape:cy="-918.3879"
      inkscape:window-width="1366"
      inkscape:window-height="696"
      inkscape:window-x="0"
@@ -72,6 +72,12 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <rect
+       x="1082.181"
+       y="-1307.5668"
+       width="630.14565"
+       height="61.86673"
+       id="rect9" />
     <linearGradient
        id="linearGradient14"
        inkscape:collect="always">
@@ -281,6 +287,24 @@
        width="606.6424"
        height="116.18989"
        id="rect3-4-6-75-3-8-7-7-4" />
+    <rect
+       x="900.35132"
+       y="826.97455"
+       width="606.6424"
+       height="116.18989"
+       id="rect3-4-6-75-3-8-7-7-1" />
+    <rect
+       x="900.35132"
+       y="826.97455"
+       width="606.6424"
+       height="116.18989"
+       id="rect3-4-6-75-3-8-7-7-1-5" />
+    <rect
+       x="900.35132"
+       y="826.97455"
+       width="606.6424"
+       height="116.18989"
+       id="rect3-4-6-75-3-8-7-7-1-5-1" />
   </defs>
   <g
      inkscape:label="Capa 1"
@@ -479,9 +503,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono';text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#f9f9f9;stroke:#000000;stroke-width:11.339;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="977.67284"
          y="877.27761"
-         id="tspan23"><tspan
+         id="tspan7"><tspan
            style="font-weight:200;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Ultra-Light'"
-           id="tspan22">ELECTROZAPE</tspan></tspan></text>
+           id="tspan6">ELECTROZAPE</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0,22.823781)"
@@ -489,7 +513,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="964.76671"
          y="886.8702"
-         id="tspan24">ELECTRO APE</tspan></text>
+         id="tspan9">ELECTRO APE</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0,45.647562)"
@@ -497,9 +521,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono';text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-7);display:inline;fill:#f9f9f9;stroke:#000000;stroke-width:11.339;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="977.67284"
          y="877.27761"
-         id="tspan26"><tspan
+         id="tspan11"><tspan
            style="font-weight:200;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Ultra-Light'"
-           id="tspan25">ELECTROZAPE</tspan></tspan></text>
+           id="tspan10">ELECTROZAPE</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0,68.471343)"
@@ -507,9 +531,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono';text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-0);display:inline;fill:#f9f9f9;stroke:#000000;stroke-width:11.339;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="977.67284"
          y="877.27761"
-         id="tspan28"><tspan
+         id="tspan24"><tspan
            style="font-weight:200;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Ultra-Light'"
-           id="tspan27">ELECTROZAPE</tspan></tspan></text>
+           id="tspan23">ELECTROZAPE</tspan></tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 256.16293,243.31301 96.99848,0 -14.9203,14.16184 h 50.46923"
@@ -524,7 +548,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
            x="964.76671"
            y="886.8702"
-           id="tspan29">ELECTRO APE</tspan></text>
+           id="tspan25">ELECTRO APE</tspan></text>
       <path
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          d="m 457.76637,301.60801 h 96.99848 l -14.9203,14.16184 h 50.46923"
@@ -537,7 +561,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-9);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
            x="964.76671"
            y="886.8702"
-           id="tspan30">ELECTRO APE</tspan></text>
+           id="tspan26">ELECTRO APE</tspan></text>
       <path
          style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          d="m 459.68288,331.81805 h 96.99848 l -14.9203,14.16184 h 50.46923"
@@ -550,7 +574,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-6-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
            x="964.76671"
            y="886.8702"
-           id="tspan31">ELECTRO APE</tspan></text>
+           id="tspan27">ELECTRO APE</tspan></text>
       <path
          style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2.30994;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          d="m 466.91136,355.14936 101.69695,0.15007 -18.25875,16.3565 58.28421,10e-6"
@@ -697,7 +721,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-6);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="964.76671"
          y="886.8702"
-         id="tspan32">ELECTRO APE</tspan></text>
+         id="tspan28">ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2.5649;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 451.75169,224.98454 112.92162,0.16663 -20.27404,18.16183 64.71726,1e-5"
@@ -719,7 +743,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-6-31);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="970.65213"
          y="886.8702"
-         id="tspan33"> LECTRO APE</tspan></text>
+         id="tspan29"> LECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2.5649;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 886.92945,560.15387 100.29233,0.16663 -20.27404,18.16183 64.71726,10e-6"
@@ -795,7 +819,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-6-31-1);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="950.4438"
          y="886.8702"
-         id="tspan34"> ELECTRO APE</tspan></text>
+         id="tspan30"> ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:15.7445;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 842.69635,848.01657 615.63875,1.02285 -124.451,111.48536 397.2632,6e-5"
@@ -817,7 +841,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:10px;white-space:pre;shape-inside:url(#rect3-4-6-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="970.65213"
          y="886.8702"
-         id="tspan35"> LECTRO APE</tspan></text>
+         id="tspan31"> LECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2.5649;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 739.58544,387.99178 102.91469,0.11069 -20.27404,18.16183 64.71726,1e-5"
@@ -894,7 +918,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:2.33927px;white-space:pre;shape-inside:url(#rect3-4-6-75);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="1003.0704"
          y="886.8702"
-         id="tspan36">ELECTRO APE</tspan></text>
+         id="tspan32">ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:url(#linearGradient7);stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m -1758.3848,-2189.5092 57.0438,0.3653 -20.274,18.1618 h 45.4587"
@@ -921,7 +945,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:2.33927px;white-space:pre;shape-inside:url(#rect3-4-6-75-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="1003.0704"
          y="886.8702"
-         id="tspan37">ELECTRO APE</tspan></text>
+         id="tspan33">ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:url(#linearGradient8);stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 685.87845,27.012573 57.0438,0.3653 -20.274,18.1618 h 45.4587"
@@ -937,7 +961,7 @@
        inkscape:export-ydpi="96"><tspan
          x="1003.0704"
          y="886.8702"
-         id="tspan38">ELECTRO APE</tspan></text>
+         id="tspan34">ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:url(#linearGradient9);stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 412.55764,-134.9266 57.0438,0.3653 -20.274,18.1618 h 45.4587"
@@ -973,7 +997,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:2.33927px;white-space:pre;shape-inside:url(#rect3-4-6-75-3-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="1003.0704"
          y="886.8702"
-         id="tspan39">ELECTRO APE</tspan></text>
+         id="tspan35">ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 679.32681,-127.41033 49.82062,-0.0112 -20.274,18.1618 42.83152,0"
@@ -1003,7 +1027,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:2.33927px;white-space:pre;shape-inside:url(#rect3-4-6-75-3-8-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="1003.0704"
          y="886.8702"
-         id="tspan40">ELECTRO APE</tspan></text>
+         id="tspan36">ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 699.90163,-370.5916 40.05534,0.0238 -17.63064,16.29952 h 42.83152"
@@ -1033,7 +1057,15 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:2.33927px;white-space:pre;shape-inside:url(#rect3-4-6-75-3-8-7-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="1003.0704"
          y="886.8702"
-         id="tspan41">ELECTRO APE</tspan></text>
+         id="tspan37">ELECTRO APE</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.34003422,0,0,0.34231058,21.04572,-715.03442)"
+       id="text3-4-6-5-6-0-6-9-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:2.33927px;white-space:pre;shape-inside:url(#rect3-4-6-75-3-8-7-7-1);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
+         x="1003.0704"
+         y="886.8702"
+         id="tspan38">ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 487.58202,-500.6942 37.76656,0.03 -14.95954,13.50933 40.34727,-0.0109"
@@ -1105,11 +1137,272 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:2.33927px;white-space:pre;shape-inside:url(#rect3-4-6-75-3-8-1);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="1003.0704"
          y="886.8702"
-         id="tspan42">ELECTRO APE</tspan></text>
+         id="tspan39">ELECTRO APE</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:url(#linearGradient15);stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 729.86223,-221.33742 49.82062,-0.0112 -20.274,18.1618 h 42.83152"
        id="path3-8-62-1-3-6"
        sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono Bold';text-align:center;letter-spacing:0.79375px;text-anchor:middle;fill:#000000;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="435.88446"
+       y="-395.29495"
+       id="text1"
+       inkscape:export-filename="fonts/fonts.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono Bold';fill:#000000;stroke-width:3"
+         x="436.28134"
+         y="-395.29495">CommitMono Nerd Bold 32</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono Bold';text-align:center;letter-spacing:0.79375px;text-anchor:middle;fill:#000000;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="436.5184"
+       y="-367.60327"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono';stroke-width:3"
+         x="436.91528"
+         y="-367.60327">CommitMono Nerd normal 20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono Bold';text-align:center;letter-spacing:0.79375px;text-anchor:middle;fill:#000000;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="436.28134"
+       y="-395.29495"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:3"
+         x="436.28134"
+         y="-395.29495" /><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;stroke-width:3"
+         id="tspan4"
+         x="436.67822"
+         y="-381.18384">CommitMono Nerd Bold 24</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono';text-align:center;letter-spacing:0.79375px;text-anchor:middle;fill:#000000;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="361.18729"
+       y="-419.69135"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="stroke-width:3;-inkscape-font-specification:'CommitMono Nerd Font Mono';font-family:'CommitMono Nerd Font Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="361.18729"
+         y="-419.69135" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Coolvetica;-inkscape-font-specification:Coolvetica;text-align:center;letter-spacing:0.79375px;text-anchor:middle;fill:#000000;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="258.18842"
+       y="-345.96039"
+       id="text7"
+       inkscape:export-filename="texts/h1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:16.9333px;font-family:Coolvetica;-inkscape-font-specification:'Coolvetica Condensed';text-align:start;text-anchor:start;stroke-width:3"
+         x="258.18842"
+         y="-345.96039"
+         id="tspan21">¡DILE ADIÓS A LOS INSECTOS CON</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:16.9333px;font-family:Coolvetica;-inkscape-font-specification:'Coolvetica Condensed';text-align:start;text-anchor:start;stroke-width:3"
+         x="258.18842"
+         y="-324.79376"
+         id="tspan22">ELECTROZAPE!</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text9"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono Bold';text-align:center;letter-spacing:3px;white-space:pre;shape-inside:url(#rect9);display:inline;fill:#000000;stroke-width:11.3386;stroke-linecap:square;paint-order:stroke fill markers" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono Bold';text-align:start;letter-spacing:0.79375px;text-anchor:start;fill:#000000;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="297.85751"
+       y="-286.98157"
+       id="text12"
+       inkscape:export-filename="texts/sh1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Coolvetica;-inkscape-font-specification:Coolvetica;stroke-width:3"
+         x="297.85751"
+         y="-286.98157">Ofrecemos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono';text-align:start;letter-spacing:0.79375px;text-anchor:start;fill:#000000;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="289.30499"
+       y="-267.1217"
+       id="text13"
+       inkscape:export-filename="texts/p1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono';stroke-width:3"
+         x="289.30499"
+         y="-267.1217">¡Elimina a los molestos insectos de </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono';stroke-width:3"
+         x="289.30499"
+         y="-258.30225"
+         id="tspan14">una vez por todas!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono';text-align:start;letter-spacing:0.79375px;text-anchor:start;fill:#000000;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="305.17676"
+       y="-240.84389"
+       id="text15"
+       inkscape:export-filename="p2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="stroke-width:3"
+         x="305.17676"
+         y="-240.84389">Tecnologia avanzada: Electrozape utiliza</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:3"
+         x="305.17676"
+         y="-232.02444"
+         id="tspan16">una malla electrica de alta eficiencia para </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:3"
+         x="305.17676"
+         y="-223.20499"
+         id="tspan17">atrapar y eliminar insectos al instante.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono';text-align:start;letter-spacing:0.79375px;text-anchor:start;fill:#000000;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="319.65683"
+       y="-206.53064"
+       id="text18"
+       inkscape:export-filename="p3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         style="stroke-width:3"
+         x="319.65683"
+         y="-206.53064">Fácil de usar: Solo conecta,enciende y disfruta de un</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:3"
+         x="319.65683"
+         y="-197.7112"
+         id="tspan19">ambiente libre de insectos.</tspan></text>
+    <rect
+       style="fill:#ff0000;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers;fill-opacity:1"
+       id="rect20"
+       width="18.140762"
+       height="18.538803"
+       x="788.07928"
+       y="-404.28333" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect20-1"
+       width="18.140762"
+       height="18.538803"
+       x="815.39154"
+       y="-404.28333" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect20-1-2"
+       width="18.140762"
+       height="18.538803"
+       x="842.7038"
+       y="-404.28333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:start;letter-spacing:0.79375px;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="408.47241"
+       y="-404.41638"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';stroke-width:3"
+         x="408.47241"
+         y="-404.41638">asdASD</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.34003422,0,0,0.34231058,-156.65799,-687.82817)"
+       id="text3-4-6-5-6-0-6-9-4-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;text-align:center;letter-spacing:2.33927px;white-space:pre;shape-inside:url(#rect3-4-6-75-3-8-7-7-1-5);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3386;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"><tspan
+         x="1003.0704"
+         y="886.8702"
+         id="tspan40">ELECTRO APE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono Bold';text-align:center;letter-spacing:0.79375px;text-anchor:middle;fill:#000000;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="253.22833"
+       y="-367.60327"
+       id="text2-6"><tspan
+         sodipodi:role="line"
+         id="tspan2-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono';stroke-width:3"
+         x="253.62521"
+         y="-367.60327">CommitMono Nerd normal 20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'FROSTBITE Narrow';-inkscape-font-specification:'FROSTBITE Narrow Bold';text-align:start;letter-spacing:0.79375px;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="230.76871"
+       y="-377.21014"
+       id="text20-1"><tspan
+         sodipodi:role="line"
+         id="tspan20-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'FROSTBITE Narrow';-inkscape-font-specification:'FROSTBITE Narrow Bold';stroke-width:3"
+         x="230.76871"
+         y="-377.21014">asdASD-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono Bold';text-align:center;letter-spacing:0.79375px;text-anchor:middle;fill:#000000;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="-67.877144"
+       y="-372.61536"
+       id="text2-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan2-3-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'CommitMono Nerd Font Mono';-inkscape-font-specification:'CommitMono Nerd Font Mono';stroke-width:3"
+         x="-67.48027"
+         y="-372.61536">CommitMono Nerd normal 20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Coolvetica;-inkscape-font-specification:Coolvetica;text-align:start;letter-spacing:0.79375px;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="-114.50976"
+       y="-381.30908"
+       id="text20-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan20-5-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Coolvetica;-inkscape-font-specification:Coolvetica;stroke-width:3"
+         x="-114.50976"
+         y="-381.30908">Coolvetica Normal 36</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Coolvetica;-inkscape-font-specification:Coolvetica;text-align:start;letter-spacing:0.79375px;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="-138.2925"
+       y="-393.00989"
+       id="text20-1-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan20-5-0-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:16.9333px;font-family:Coolvetica;-inkscape-font-specification:'Coolvetica Condensed';stroke-width:3"
+         x="-138.2925"
+         y="-393.00989">Coolvetica Condensed 48</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;letter-spacing:0.79375px;fill:#000000;stroke-width:3;stroke-linecap:square;paint-order:stroke fill markers"
+       x="-156.68344"
+       y="-407.74597"
+       id="text8"
+       inkscape:export-filename="fonts/fonts.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gasca-Demo;-inkscape-font-specification:Gasca-Demo;stroke-width:3"
+         x="-156.68344"
+         y="-407.74597">Gasca-Demo normal  36</tspan></text>
   </g>
 </svg>
